@@ -10,7 +10,7 @@ As from the October 2025, the Download Size for this Repo is : **?** ( Please No
 **+** __**Files and Folder Structure.**__
 
 **Images**
-All images in this repo are found and mined and are located are organized based on category. e.g. Alola, Alolan, Babies, Eternamax, Galar, Galarian, Gigantamax, Hisuian, Hoenn, Johto, Kalos, Kanto, Mega, Paldea, Paldean, Paradox, Primal, Sinnoh, Unova, Region Evolves, 8-Bit ( April Fools 2018 ), Kanto Originals ( 2016 ), Events ( Alolan, Babies, Galarian, Hisuian and Region Evolves ), Others and More.
+All images in this repo are found and mined and are located are organized based on category. e.g. Alola, Alolan, Babies, Eternamax, Galar, Galarian, Gigantamax, Hisuian, Hoenn, Johto, Kalos, Kanto, Mega, Paldea, Paldean, Paradox, Primal, Sinnoh, Stellar, Terastallize, Unova, Region Evolves, 8-Bit ( April Fools 2018 ), , , Others and More.
 
 ## __**Disclaimer**__
 
